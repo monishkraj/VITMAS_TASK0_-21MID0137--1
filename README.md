@@ -1,6 +1,8 @@
 # VITMAS_TASK0_-21MID0137-
 git status
+
 show modified files in working directory, staged for your next commit
+
 git add [file]
 
 add a file as it looks now to your next commit (stage)
