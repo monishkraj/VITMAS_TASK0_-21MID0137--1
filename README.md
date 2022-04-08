@@ -2,6 +2,7 @@
 git status
 show modified files in working directory, staged for your next commit
 git add [file]
+
 add a file as it looks now to your next commit (stage)
 git reset [file]
 unstage a file while retaining the changes in working directory
